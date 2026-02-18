@@ -1,8 +1,8 @@
 from pypdf import PdfReader, PdfWriter
 
-pdf1_path = "Master_Thesis_Akshay__Initial.pdf"  # base PDF
-pdf2_path = "Declaration of Authorship.pdf"  # to insert at page 2
-pdf3_path = "Examination Office - Declaration on AI-Usage.pdf"  # to insert at page 3
+pdf1_path = "main_file.pdf"  # base PDF
+pdf2_path = "page_needed_to_added.pdf"  # to insert at page 2
+pdf3_path = "next_page_needed_to_be_added.pdf"  # to insert at page 3
 output_path = "Master_Thesis_Akshay_Final.pdf"
 
 reader1 = PdfReader(pdf1_path)
