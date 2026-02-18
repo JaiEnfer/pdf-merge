@@ -1,5 +1,5 @@
 ![CI](https://github.com/JaiEnfer/pdf-merge/actions/workflows/ci.yml/badge.svg)
-
+![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11-3776AB?logo=python&logoColor=white)
 
 # 📄 PDF Page Insertion Script
 
