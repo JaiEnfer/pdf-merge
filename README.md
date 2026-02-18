@@ -1,4 +1,4 @@
-![CI](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/JaiEnfer/pdf-merge/actions/workflows/ci.yml/badge.svg)
 
 
 # 📄 PDF Page Insertion Script
