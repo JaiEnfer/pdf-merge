@@ -1,3 +1,6 @@
+![CI](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/ci.yml/badge.svg)
+
+
 # 📄 PDF Page Insertion Script
 
 This Python script merges multiple PDF files and inserts additional PDFs into specific positions of a base PDF.
@@ -47,7 +50,7 @@ project-folder/
 Install the required package:
 
 ```sh
-pip install pypdf
+python -r requirements.txt
 ```
 
 ---
