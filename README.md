@@ -104,7 +104,7 @@ pdf2_path = "page_needed_to_added.pdf"
 
 pdf3_path = "next_page_needed_to_be_added.pdf"
 
-output_path = "Master_Thesis_Akshay_Final.pdf"
+output_path = "Final.pdf"
 
 
 To:
